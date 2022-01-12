@@ -1,0 +1,15 @@
+CW_liftover_3d7_chr	NF54_chr
+chr1	PfNF54_01_m1
+chr2	PfNF54_02_m1
+chr3	PfNF54_03_m1
+chr4	PfNF54_04_m1
+chr5	PfNF54_05_m1
+chr6	PfNF54_06_m1
+chr7	PfNF54_07_m1
+chr8	PfNF54_08_m1
+chr9	PfNF54_09_m1
+chr10	PfNF54_10_m1
+chr11	PfNF54_11_m1
+chr12	PfNF54_12_m1
+chr13	PfNF54_13_m1
+chr14	PfNF54_14_m1
